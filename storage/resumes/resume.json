@@ -1,0 +1,330 @@
+{
+    "basics": {
+        "name": "John Wick",
+        "label": "Senior Full-Stack Developer & Bug Exterminator",
+        "image": "https://images.unsplash.com/photo-1644004680400-b9425e4efa18?q=80&w=2819&auto=format&fit=crop",
+        "email": "john.wick@example.com",
+        "phone": "(555) REVENGE",
+        "url": "https://example.com/johnwick",
+        "summary": "Legendary full-stack developer with an exceptional track record of eliminating bugs, crushing deadlines, and delivering flawless code. Known for my relentless pursuit of clean architecture and my ability to debug the most complex systems. I don't just write code - I craft digital masterpieces. Retired from the underground hacking scene, now focusing on legitimate software development. Warning: Do not touch my rubber duck debugger.",
+        "location": {
+            "address": "The Continental Hotel",
+            "postalCode": "10001",
+            "city": "New York",
+            "countryCode": "US",
+            "region": "NY"
+        },
+        "profiles": [{
+            "network": "GitHub",
+            "username": "johnwick",
+            "url": "https://github.com"
+        }, {
+            "network": "LinkedIn",
+            "username": "john-wick-dev",
+            "url": "https://linkedin.com"
+        }, {
+            "network": "Stack Overflow",
+            "username": "baba-yaga-codes",
+            "url": "https://stackoverflow.com"
+        }]
+    },
+    "work": [{
+        "name": "The Continental Hotel Tech Division",
+        "position": "Lead Software Architect",
+        "url": "https://example.com/continental-tech",
+        "startDate": "2020-01-01",
+        "endDate": "2024-01-01",
+        "summary": "Led the digital transformation of the world's most exclusive hospitality network. Developed secure, scalable systems for guest management and concierge services.",
+        "highlights": [
+            "Architected a bulletproof microservices infrastructure handling 10M+ requests daily",
+            "Implemented zero-downtime deployment strategies - because downtime is not an option",
+            "Created an AI-powered concierge system that never sleeps",
+            "Reduced system vulnerabilities by 99.9% through rigorous security audits",
+            "Mentored junior developers in the art of clean code and precise execution"
+        ]
+    }, {
+        "name": "High Table Enterprises",
+        "position": "Senior Backend Developer",
+        "url": "https://example.com/high-table",
+        "startDate": "2017-01-01",
+        "endDate": "2019-12-31",
+        "summary": "Developed mission-critical applications for a global organization with extremely high standards for precision and reliability.",
+        "highlights": [
+            "Built real-time tracking systems with 99.99% accuracy",
+            "Designed encrypted communication protocols for sensitive data",
+            "Optimized database queries to execute in under 1ms - precision is everything",
+            "Implemented automated testing suites with 100% code coverage",
+            "Never missed a deadline, never shipped a bug"
+        ]
+    }, {
+        "name": "Freelance Consulting",
+        "position": "Independent Software Consultant",
+        "url": "https://example.com/john-wick-consulting",
+        "startDate": "2014-01-01",
+        "endDate": "2016-12-31",
+        "summary": "Provided specialized software solutions for clients requiring the highest level of discretion and technical excellence.",
+        "highlights": [
+            "Solved 'impossible' technical challenges that other developers couldn't handle",
+            "Delivered projects with surgical precision and attention to detail",
+            "Maintained 100% client satisfaction rate",
+            "Specialized in legacy system modernization and technical debt elimination"
+        ]
+    }],
+    "volunteer": [{
+        "organization": "Code for Good Foundation",
+        "position": "Pro Bono Developer",
+        "url": "",
+        "startDate": "2020-01-01",
+        "endDate": "2024-01-01",
+        "summary": "Developing applications for animal shelters and pet adoption services. Because every dog deserves a loving home.",
+        "highlights": [
+            "Built a nationwide pet adoption platform",
+            "Created mobile apps for animal rescue organizations",
+            "Donated 500+ hours of development time",
+            "Helped find homes for over 10,000 animals"
+        ]
+    }],
+    "education": [{
+        "institution": "MIT",
+        "url": "",
+        "area": "Computer Science",
+        "studyType": "Bachelor of Science",
+        "startDate": "2010-09-01",
+        "endDate": "2014-05-31",
+        "score": "4.0",
+        "courses": [
+            "Advanced Algorithms and Data Structures",
+            "Distributed Systems Architecture",
+            "Cybersecurity and Cryptography",
+            "Machine Learning and AI",
+            "Software Engineering Principles"
+        ]
+    }, {
+        "institution": "The Continental Academy",
+        "url": "",
+        "area": "Advanced Software Security",
+        "studyType": "Professional Certification",
+        "startDate": "2015-01-01",
+        "endDate": "2015-12-31",
+        "score": "Perfect",
+        "courses": [
+            "Penetration Testing and Ethical Hacking",
+            "Advanced Encryption Techniques",
+            "System Hardening and Security Auditing"
+        ]
+    }],
+    "awards": [{
+        "title": "Developer of the Year",
+        "date": "2023-11-01",
+        "awarder": "Tech Excellence Awards",
+        "summary": "Recognized for exceptional technical skills and unwavering commitment to code quality."
+    }, {
+        "title": "Bug Bounty Hall of Fame",
+        "date": "2022-06-15",
+        "awarder": "Global Security Initiative",
+        "summary": "Discovered and responsibly disclosed critical vulnerabilities in major platforms."
+    }, {
+        "title": "Open Source Contributor Award",
+        "date": "2021-03-20",
+        "awarder": "GitHub",
+        "summary": "Outstanding contributions to open source projects and community mentorship."
+    }],
+    "certificates": [{
+        "name": "AWS Solutions Architect Professional",
+        "date": "2023-08-15",
+        "issuer": "Amazon Web Services",
+        "url": ""
+    }, {
+        "name": "Certified Kubernetes Administrator",
+        "date": "2023-05-10",
+        "issuer": "Cloud Native Computing Foundation",
+        "url": ""
+    }, {
+        "name": "Google Cloud Professional Developer",
+        "date": "2022-11-20",
+        "issuer": "Google Cloud",
+        "url": ""
+    }],
+    "publications": [{
+        "name": "The Art of Clean Code: Precision in Programming",
+        "publisher": "Tech Publishing House",
+        "releaseDate": "2023-04-01",
+        "url": "",
+        "summary": "A comprehensive guide to writing maintainable, efficient code with the precision of a master craftsman."
+    }, {
+        "name": "Bulletproof Systems: Building Unbreakable Software Architecture",
+        "publisher": "Developer's Digest",
+        "releaseDate": "2022-09-15",
+        "url": "",
+        "summary": "Strategies for creating resilient, fault-tolerant systems that never fail when it matters most."
+    }],
+    "skills": [{
+        "name": "Backend Development",
+        "level": "Expert",
+        "keywords": [
+            "Node.js",
+            "Python",
+            "Java",
+            "Go",
+            "PHP",
+            "Laravel",
+            "Express.js",
+            "Django",
+            "Spring Boot"
+        ]
+    }, {
+        "name": "Frontend Development",
+        "level": "Intermediate",
+        "keywords": [
+            "React",
+            "TypeScript",
+            "JavaScript",
+            "Vue.js",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS",
+            "Next.js"
+        ]
+    }, {
+        "name": "Database Management",
+        "level": "Intermediate",
+        "keywords": [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Redis",
+            "Elasticsearch",
+            "Database Optimization",
+            "Query Performance Tuning"
+        ]
+    }, {
+        "name": "Cloud & DevOps",
+        "level": "Senior",
+        "keywords": [
+            "AWS",
+            "Google Cloud",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Terraform",
+            "CI/CD",
+            "Jenkins",
+            "GitHub Actions"
+        ]
+    }, {
+        "name": "Security & Performance",
+        "level": "Senior",
+        "keywords": [
+            "Penetration Testing",
+            "Security Auditing",
+            "Performance Optimization",
+            "Load Testing",
+            "Vulnerability Assessment",
+            "Encryption",
+            "OAuth/JWT"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }, {
+        "language": "JavaScript",
+        "fluency": "Fluent (the language of the web)"
+    }, {
+        "language": "Python",
+        "fluency": "Fluent (speaks snake)"
+    }, {
+        "language": "Russian",
+        "fluency": "Conversational"
+    }],
+    "interests": [{
+        "name": "Canine Companions",
+        "keywords": [
+            "Dog Training",
+            "Pet Care Apps",
+            "Animal Welfare Technology"
+        ]
+    }, {
+        "name": "Precision Engineering",
+        "keywords": [
+            "Mechanical Keyboards",
+            "Custom PC Building",
+            "3D Printing",
+            "Woodworking"
+        ]
+    }, {
+        "name": "Martial Arts & Fitness",
+        "keywords": [
+            "Brazilian Jiu-Jitsu",
+            "Fitness Tracking Apps",
+            "Workout Optimization"
+        ]
+    }, {
+        "name": "Classic Cars",
+        "keywords": [
+            "Automotive Electronics",
+            "Car Restoration",
+            "Vintage Mustangs"
+        ]
+    }],
+    "references": [{
+        "name": "Winston (The Continental Manager)",
+        "reference": "John is the most reliable developer I've ever worked with. When he commits to a deadline, consider it done. His code is as clean as his reputation is legendary. I would trust him with our most critical systems without hesitation."
+    }, {
+        "name": "Charon (Senior DevOps Engineer)",
+        "reference": "Working with John is like having a guardian angel for your infrastructure. He anticipates problems before they happen and solves them with surgical precision. His attention to detail is unmatched."
+    }, {
+        "name": "The Bowery King (CTO, Underground Tech Collective)",
+        "reference": "John Wick doesn't just write code - he crafts digital art. His solutions are elegant, efficient, and absolutely bulletproof. He's the developer you call when failure is not an option."
+    }],
+    "projects": [{
+        "name": "Continental Guest Management System",
+        "startDate": "2022-01-01",
+        "endDate": "2023-06-30",
+        "description": "A comprehensive hospitality management platform with real-time booking, concierge services, and guest preferences tracking. Built with microservices architecture for maximum scalability and reliability.",
+        "highlights": [
+            "Handles 50,000+ concurrent users without breaking a sweat",
+            "99.99% uptime - more reliable than a Swiss watch",
+            "Integrated AI-powered recommendation engine",
+            "Zero security breaches in production"
+        ],
+        "url": "https://example.com/continental-guest-management"
+    }, {
+        "name": "PetFinder Pro",
+        "startDate": "2021-03-01",
+        "endDate": "2022-12-31",
+        "description": "A nationwide pet adoption platform connecting shelters with potential pet parents. Features advanced matching algorithms, real-time chat, and comprehensive pet profiles.",
+        "highlights": [
+            "Facilitated 10,000+ successful pet adoptions",
+            "Mobile-first responsive design",
+            "Real-time geolocation matching",
+            "Integrated payment processing for adoption fees"
+        ],
+        "url": "https://example.com/petfinder-pro"
+    }, {
+        "name": "SecureVault API",
+        "startDate": "2020-06-01",
+        "endDate": "2021-02-28",
+        "description": "Enterprise-grade encrypted data storage API with military-level security protocols. Designed for organizations requiring the highest levels of data protection.",
+        "highlights": [
+            "AES-256 encryption with custom key management",
+            "Zero-knowledge architecture",
+            "SOC 2 Type II compliant",
+            "Sub-millisecond response times"
+        ],
+        "url": "https://example.com/securevault-api"
+    }, {
+        "name": "CodeReview Assassin",
+        "startDate": "2023-01-01",
+        "endDate": "2023-12-31",
+        "description": "An AI-powered code review tool that identifies bugs, security vulnerabilities, and performance issues with deadly accuracy. Open source project with 15k+ GitHub stars.",
+        "highlights": [
+            "Detects 95% of common security vulnerabilities",
+            "Integrates with all major Git platforms",
+            "Supports 20+ programming languages",
+            "Used by 500+ development teams worldwide"
+        ],
+        "url": "https://example.com/codereview-assassin"
+    }]
+}
